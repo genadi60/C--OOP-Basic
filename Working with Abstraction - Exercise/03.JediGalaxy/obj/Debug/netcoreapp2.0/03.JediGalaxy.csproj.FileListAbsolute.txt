@@ -1,0 +1,11 @@
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Working with Abstraction - Exercise\03.JediGalaxy\obj\Debug\netcoreapp2.0\03.JediGalaxy.csprojResolveAssemblyReference.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Working with Abstraction - Exercise\03.JediGalaxy\obj\Debug\netcoreapp2.0\03.JediGalaxy.csproj.CoreCompileInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Working with Abstraction - Exercise\03.JediGalaxy\obj\Debug\netcoreapp2.0\03.JediGalaxy.AssemblyInfoInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Working with Abstraction - Exercise\03.JediGalaxy\obj\Debug\netcoreapp2.0\03.JediGalaxy.AssemblyInfo.cs
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Working with Abstraction - Exercise\03.JediGalaxy\bin\Debug\netcoreapp2.0\03.JediGalaxy.deps.json
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Working with Abstraction - Exercise\03.JediGalaxy\bin\Debug\netcoreapp2.0\03.JediGalaxy.runtimeconfig.json
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Working with Abstraction - Exercise\03.JediGalaxy\bin\Debug\netcoreapp2.0\03.JediGalaxy.runtimeconfig.dev.json
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Working with Abstraction - Exercise\03.JediGalaxy\bin\Debug\netcoreapp2.0\03.JediGalaxy.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Working with Abstraction - Exercise\03.JediGalaxy\bin\Debug\netcoreapp2.0\03.JediGalaxy.pdb
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Working with Abstraction - Exercise\03.JediGalaxy\obj\Debug\netcoreapp2.0\03.JediGalaxy.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Working with Abstraction - Exercise\03.JediGalaxy\obj\Debug\netcoreapp2.0\03.JediGalaxy.pdb

@@ -1,0 +1,11 @@
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Encapsulation - Exercise\Encapsulation - Exercise\04.ShoppingSpree2\bin\Debug\netcoreapp2.0\04.ShoppingSpree2.deps.json
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Encapsulation - Exercise\Encapsulation - Exercise\04.ShoppingSpree2\bin\Debug\netcoreapp2.0\04.ShoppingSpree2.runtimeconfig.json
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Encapsulation - Exercise\Encapsulation - Exercise\04.ShoppingSpree2\bin\Debug\netcoreapp2.0\04.ShoppingSpree2.runtimeconfig.dev.json
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Encapsulation - Exercise\Encapsulation - Exercise\04.ShoppingSpree2\bin\Debug\netcoreapp2.0\04.ShoppingSpree2.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Encapsulation - Exercise\Encapsulation - Exercise\04.ShoppingSpree2\bin\Debug\netcoreapp2.0\04.ShoppingSpree2.pdb
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Encapsulation - Exercise\Encapsulation - Exercise\04.ShoppingSpree2\obj\Debug\netcoreapp2.0\04.ShoppingSpree2.csprojResolveAssemblyReference.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Encapsulation - Exercise\Encapsulation - Exercise\04.ShoppingSpree2\obj\Debug\netcoreapp2.0\04.ShoppingSpree2.csproj.CoreCompileInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Encapsulation - Exercise\Encapsulation - Exercise\04.ShoppingSpree2\obj\Debug\netcoreapp2.0\04.ShoppingSpree2.AssemblyInfoInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Encapsulation - Exercise\Encapsulation - Exercise\04.ShoppingSpree2\obj\Debug\netcoreapp2.0\04.ShoppingSpree2.AssemblyInfo.cs
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Encapsulation - Exercise\Encapsulation - Exercise\04.ShoppingSpree2\obj\Debug\netcoreapp2.0\04.ShoppingSpree2.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Encapsulation - Exercise\Encapsulation - Exercise\04.ShoppingSpree2\obj\Debug\netcoreapp2.0\04.ShoppingSpree2.pdb

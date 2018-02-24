@@ -1,0 +1,11 @@
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Encapsulation - Exercise\Encapsulation - Exercise\02.ClassBoxDataValidation2\bin\Debug\netcoreapp2.0\02.ClassBoxDataValidation2.deps.json
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Encapsulation - Exercise\Encapsulation - Exercise\02.ClassBoxDataValidation2\bin\Debug\netcoreapp2.0\02.ClassBoxDataValidation2.runtimeconfig.json
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Encapsulation - Exercise\Encapsulation - Exercise\02.ClassBoxDataValidation2\bin\Debug\netcoreapp2.0\02.ClassBoxDataValidation2.runtimeconfig.dev.json
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Encapsulation - Exercise\Encapsulation - Exercise\02.ClassBoxDataValidation2\bin\Debug\netcoreapp2.0\02.ClassBoxDataValidation2.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Encapsulation - Exercise\Encapsulation - Exercise\02.ClassBoxDataValidation2\bin\Debug\netcoreapp2.0\02.ClassBoxDataValidation2.pdb
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Encapsulation - Exercise\Encapsulation - Exercise\02.ClassBoxDataValidation2\obj\Debug\netcoreapp2.0\02.ClassBoxDataValidation2.csprojResolveAssemblyReference.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Encapsulation - Exercise\Encapsulation - Exercise\02.ClassBoxDataValidation2\obj\Debug\netcoreapp2.0\02.ClassBoxDataValidation2.csproj.CoreCompileInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Encapsulation - Exercise\Encapsulation - Exercise\02.ClassBoxDataValidation2\obj\Debug\netcoreapp2.0\02.ClassBoxDataValidation2.AssemblyInfoInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Encapsulation - Exercise\Encapsulation - Exercise\02.ClassBoxDataValidation2\obj\Debug\netcoreapp2.0\02.ClassBoxDataValidation2.AssemblyInfo.cs
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Encapsulation - Exercise\Encapsulation - Exercise\02.ClassBoxDataValidation2\obj\Debug\netcoreapp2.0\02.ClassBoxDataValidation2.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Encapsulation - Exercise\Encapsulation - Exercise\02.ClassBoxDataValidation2\obj\Debug\netcoreapp2.0\02.ClassBoxDataValidation2.pdb
