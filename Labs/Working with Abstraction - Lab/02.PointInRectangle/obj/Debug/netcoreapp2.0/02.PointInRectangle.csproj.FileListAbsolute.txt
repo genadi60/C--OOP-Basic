@@ -1,0 +1,22 @@
+E:\Visual Studio Projects\Working with Abstraction - Lab\02.PointInRectangle\bin\Debug\netcoreapp2.0\02.PointInRectangle.deps.json
+E:\Visual Studio Projects\Working with Abstraction - Lab\02.PointInRectangle\bin\Debug\netcoreapp2.0\02.PointInRectangle.runtimeconfig.json
+E:\Visual Studio Projects\Working with Abstraction - Lab\02.PointInRectangle\bin\Debug\netcoreapp2.0\02.PointInRectangle.runtimeconfig.dev.json
+E:\Visual Studio Projects\Working with Abstraction - Lab\02.PointInRectangle\bin\Debug\netcoreapp2.0\02.PointInRectangle.dll
+E:\Visual Studio Projects\Working with Abstraction - Lab\02.PointInRectangle\bin\Debug\netcoreapp2.0\02.PointInRectangle.pdb
+E:\Visual Studio Projects\Working with Abstraction - Lab\02.PointInRectangle\obj\Debug\netcoreapp2.0\02.PointInRectangle.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\Working with Abstraction - Lab\02.PointInRectangle\obj\Debug\netcoreapp2.0\02.PointInRectangle.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Working with Abstraction - Lab\02.PointInRectangle\obj\Debug\netcoreapp2.0\02.PointInRectangle.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Working with Abstraction - Lab\02.PointInRectangle\obj\Debug\netcoreapp2.0\02.PointInRectangle.AssemblyInfo.cs
+E:\Visual Studio Projects\Working with Abstraction - Lab\02.PointInRectangle\obj\Debug\netcoreapp2.0\02.PointInRectangle.dll
+E:\Visual Studio Projects\Working with Abstraction - Lab\02.PointInRectangle\obj\Debug\netcoreapp2.0\02.PointInRectangle.pdb
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Working with Abstraction - Lab\02.PointInRectangle\bin\Debug\netcoreapp2.0\02.PointInRectangle.deps.json
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Working with Abstraction - Lab\02.PointInRectangle\bin\Debug\netcoreapp2.0\02.PointInRectangle.runtimeconfig.json
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Working with Abstraction - Lab\02.PointInRectangle\bin\Debug\netcoreapp2.0\02.PointInRectangle.runtimeconfig.dev.json
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Working with Abstraction - Lab\02.PointInRectangle\bin\Debug\netcoreapp2.0\02.PointInRectangle.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Working with Abstraction - Lab\02.PointInRectangle\bin\Debug\netcoreapp2.0\02.PointInRectangle.pdb
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Working with Abstraction - Lab\02.PointInRectangle\obj\Debug\netcoreapp2.0\02.PointInRectangle.csprojResolveAssemblyReference.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Working with Abstraction - Lab\02.PointInRectangle\obj\Debug\netcoreapp2.0\02.PointInRectangle.csproj.CoreCompileInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Working with Abstraction - Lab\02.PointInRectangle\obj\Debug\netcoreapp2.0\02.PointInRectangle.AssemblyInfoInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Working with Abstraction - Lab\02.PointInRectangle\obj\Debug\netcoreapp2.0\02.PointInRectangle.AssemblyInfo.cs
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Working with Abstraction - Lab\02.PointInRectangle\obj\Debug\netcoreapp2.0\02.PointInRectangle.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Working with Abstraction - Lab\02.PointInRectangle\obj\Debug\netcoreapp2.0\02.PointInRectangle.pdb

@@ -1,0 +1,10 @@
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Lab\02.BankAccountMethods\bin\Debug\netcoreapp2.0\02.BankAccountMethods.deps.json
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Lab\02.BankAccountMethods\bin\Debug\netcoreapp2.0\02.BankAccountMethods.runtimeconfig.json
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Lab\02.BankAccountMethods\bin\Debug\netcoreapp2.0\02.BankAccountMethods.runtimeconfig.dev.json
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Lab\02.BankAccountMethods\bin\Debug\netcoreapp2.0\02.BankAccountMethods.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Lab\02.BankAccountMethods\bin\Debug\netcoreapp2.0\02.BankAccountMethods.pdb
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Lab\02.BankAccountMethods\obj\Debug\netcoreapp2.0\02.BankAccountMethods.csproj.CoreCompileInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Lab\02.BankAccountMethods\obj\Debug\netcoreapp2.0\02.BankAccountMethods.AssemblyInfoInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Lab\02.BankAccountMethods\obj\Debug\netcoreapp2.0\02.BankAccountMethods.AssemblyInfo.cs
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Lab\02.BankAccountMethods\obj\Debug\netcoreapp2.0\02.BankAccountMethods.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Lab\02.BankAccountMethods\obj\Debug\netcoreapp2.0\02.BankAccountMethods.pdb

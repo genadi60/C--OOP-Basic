@@ -1,0 +1,11 @@
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Working with Abstraction - Lab\03.StudentSystem\bin\Debug\netcoreapp2.0\03.StudentSystem.deps.json
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Working with Abstraction - Lab\03.StudentSystem\bin\Debug\netcoreapp2.0\03.StudentSystem.runtimeconfig.json
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Working with Abstraction - Lab\03.StudentSystem\bin\Debug\netcoreapp2.0\03.StudentSystem.runtimeconfig.dev.json
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Working with Abstraction - Lab\03.StudentSystem\bin\Debug\netcoreapp2.0\03.StudentSystem.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Working with Abstraction - Lab\03.StudentSystem\bin\Debug\netcoreapp2.0\03.StudentSystem.pdb
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Working with Abstraction - Lab\03.StudentSystem\obj\Debug\netcoreapp2.0\03.StudentSystem.csprojResolveAssemblyReference.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Working with Abstraction - Lab\03.StudentSystem\obj\Debug\netcoreapp2.0\03.StudentSystem.csproj.CoreCompileInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Working with Abstraction - Lab\03.StudentSystem\obj\Debug\netcoreapp2.0\03.StudentSystem.AssemblyInfoInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Working with Abstraction - Lab\03.StudentSystem\obj\Debug\netcoreapp2.0\03.StudentSystem.AssemblyInfo.cs
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Working with Abstraction - Lab\03.StudentSystem\obj\Debug\netcoreapp2.0\03.StudentSystem.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Working with Abstraction - Lab\03.StudentSystem\obj\Debug\netcoreapp2.0\03.StudentSystem.pdb

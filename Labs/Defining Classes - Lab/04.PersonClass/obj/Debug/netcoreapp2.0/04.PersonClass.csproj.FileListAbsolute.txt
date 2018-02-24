@@ -1,0 +1,11 @@
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Lab\04.PersonClass\bin\Debug\netcoreapp2.0\04.PersonClass.deps.json
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Lab\04.PersonClass\bin\Debug\netcoreapp2.0\04.PersonClass.runtimeconfig.json
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Lab\04.PersonClass\bin\Debug\netcoreapp2.0\04.PersonClass.runtimeconfig.dev.json
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Lab\04.PersonClass\bin\Debug\netcoreapp2.0\04.PersonClass.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Lab\04.PersonClass\bin\Debug\netcoreapp2.0\04.PersonClass.pdb
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Lab\04.PersonClass\obj\Debug\netcoreapp2.0\04.PersonClass.csprojResolveAssemblyReference.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Lab\04.PersonClass\obj\Debug\netcoreapp2.0\04.PersonClass.csproj.CoreCompileInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Lab\04.PersonClass\obj\Debug\netcoreapp2.0\04.PersonClass.AssemblyInfoInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Lab\04.PersonClass\obj\Debug\netcoreapp2.0\04.PersonClass.AssemblyInfo.cs
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Lab\04.PersonClass\obj\Debug\netcoreapp2.0\04.PersonClass.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Lab\04.PersonClass\obj\Debug\netcoreapp2.0\04.PersonClass.pdb

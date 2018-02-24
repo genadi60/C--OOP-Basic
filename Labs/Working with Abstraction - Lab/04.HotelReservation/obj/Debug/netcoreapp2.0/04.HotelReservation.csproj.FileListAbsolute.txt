@@ -1,0 +1,11 @@
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Working with Abstraction - Lab\04.HotelReservation\obj\Debug\netcoreapp2.0\04.HotelReservation.csprojResolveAssemblyReference.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Working with Abstraction - Lab\04.HotelReservation\obj\Debug\netcoreapp2.0\04.HotelReservation.csproj.CoreCompileInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Working with Abstraction - Lab\04.HotelReservation\obj\Debug\netcoreapp2.0\04.HotelReservation.AssemblyInfoInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Working with Abstraction - Lab\04.HotelReservation\obj\Debug\netcoreapp2.0\04.HotelReservation.AssemblyInfo.cs
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Working with Abstraction - Lab\04.HotelReservation\bin\Debug\netcoreapp2.0\04.HotelReservation.deps.json
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Working with Abstraction - Lab\04.HotelReservation\bin\Debug\netcoreapp2.0\04.HotelReservation.runtimeconfig.json
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Working with Abstraction - Lab\04.HotelReservation\bin\Debug\netcoreapp2.0\04.HotelReservation.runtimeconfig.dev.json
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Working with Abstraction - Lab\04.HotelReservation\bin\Debug\netcoreapp2.0\04.HotelReservation.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Working with Abstraction - Lab\04.HotelReservation\bin\Debug\netcoreapp2.0\04.HotelReservation.pdb
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Working with Abstraction - Lab\04.HotelReservation\obj\Debug\netcoreapp2.0\04.HotelReservation.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Working with Abstraction - Lab\04.HotelReservation\obj\Debug\netcoreapp2.0\04.HotelReservation.pdb
