@@ -1,0 +1,11 @@
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Exercise\04.OpinionPoll\bin\Debug\netcoreapp2.0\04.OpinionPoll.deps.json
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Exercise\04.OpinionPoll\bin\Debug\netcoreapp2.0\04.OpinionPoll.runtimeconfig.json
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Exercise\04.OpinionPoll\bin\Debug\netcoreapp2.0\04.OpinionPoll.runtimeconfig.dev.json
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Exercise\04.OpinionPoll\bin\Debug\netcoreapp2.0\04.OpinionPoll.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Exercise\04.OpinionPoll\bin\Debug\netcoreapp2.0\04.OpinionPoll.pdb
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Exercise\04.OpinionPoll\obj\Debug\netcoreapp2.0\04.OpinionPoll.csproj.CoreCompileInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Exercise\04.OpinionPoll\obj\Debug\netcoreapp2.0\04.OpinionPoll.AssemblyInfoInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Exercise\04.OpinionPoll\obj\Debug\netcoreapp2.0\04.OpinionPoll.AssemblyInfo.cs
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Exercise\04.OpinionPoll\obj\Debug\netcoreapp2.0\04.OpinionPoll.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Exercise\04.OpinionPoll\obj\Debug\netcoreapp2.0\04.OpinionPoll.pdb
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Exercise\04.OpinionPoll\obj\Debug\netcoreapp2.0\04.OpinionPoll.csprojResolveAssemblyReference.cache

@@ -1,0 +1,21 @@
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Exercise\02.CreatingConstructors\bin\Debug\netcoreapp2.0\02.CreatingConstructors.deps.json
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Exercise\02.CreatingConstructors\bin\Debug\netcoreapp2.0\02.CreatingConstructors.runtimeconfig.json
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Exercise\02.CreatingConstructors\bin\Debug\netcoreapp2.0\02.CreatingConstructors.runtimeconfig.dev.json
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Exercise\02.CreatingConstructors\bin\Debug\netcoreapp2.0\02.CreatingConstructors.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Exercise\02.CreatingConstructors\bin\Debug\netcoreapp2.0\02.CreatingConstructors.pdb
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Exercise\02.CreatingConstructors\obj\Debug\netcoreapp2.0\02.CreatingConstructors.csproj.CoreCompileInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Exercise\02.CreatingConstructors\obj\Debug\netcoreapp2.0\02.CreatingConstructors.AssemblyInfoInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Exercise\02.CreatingConstructors\obj\Debug\netcoreapp2.0\02.CreatingConstructors.AssemblyInfo.cs
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Exercise\02.CreatingConstructors\obj\Debug\netcoreapp2.0\02.CreatingConstructors.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Exercise\02.CreatingConstructors\obj\Debug\netcoreapp2.0\02.CreatingConstructors.pdb
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\02.CreatingConstructors\bin\Debug\netcoreapp2.0\02.CreatingConstructors.deps.json
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\02.CreatingConstructors\bin\Debug\netcoreapp2.0\02.CreatingConstructors.runtimeconfig.json
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\02.CreatingConstructors\bin\Debug\netcoreapp2.0\02.CreatingConstructors.runtimeconfig.dev.json
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\02.CreatingConstructors\bin\Debug\netcoreapp2.0\02.CreatingConstructors.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\02.CreatingConstructors\bin\Debug\netcoreapp2.0\02.CreatingConstructors.pdb
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\02.CreatingConstructors\obj\Debug\netcoreapp2.0\02.CreatingConstructors.csprojResolveAssemblyReference.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\02.CreatingConstructors\obj\Debug\netcoreapp2.0\02.CreatingConstructors.csproj.CoreCompileInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\02.CreatingConstructors\obj\Debug\netcoreapp2.0\02.CreatingConstructors.AssemblyInfoInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\02.CreatingConstructors\obj\Debug\netcoreapp2.0\02.CreatingConstructors.AssemblyInfo.cs
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\02.CreatingConstructors\obj\Debug\netcoreapp2.0\02.CreatingConstructors.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\02.CreatingConstructors\obj\Debug\netcoreapp2.0\02.CreatingConstructors.pdb

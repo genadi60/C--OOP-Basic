@@ -1,0 +1,11 @@
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Exercise\11.PokemonTrainer\bin\Debug\netcoreapp2.0\11.PokemonTrainer.deps.json
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Exercise\11.PokemonTrainer\bin\Debug\netcoreapp2.0\11.PokemonTrainer.runtimeconfig.json
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Exercise\11.PokemonTrainer\bin\Debug\netcoreapp2.0\11.PokemonTrainer.runtimeconfig.dev.json
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Exercise\11.PokemonTrainer\bin\Debug\netcoreapp2.0\11.PokemonTrainer.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Exercise\11.PokemonTrainer\bin\Debug\netcoreapp2.0\11.PokemonTrainer.pdb
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Exercise\11.PokemonTrainer\obj\Debug\netcoreapp2.0\11.PokemonTrainer.csprojResolveAssemblyReference.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Exercise\11.PokemonTrainer\obj\Debug\netcoreapp2.0\11.PokemonTrainer.csproj.CoreCompileInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Exercise\11.PokemonTrainer\obj\Debug\netcoreapp2.0\11.PokemonTrainer.AssemblyInfoInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Exercise\11.PokemonTrainer\obj\Debug\netcoreapp2.0\11.PokemonTrainer.AssemblyInfo.cs
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Exercise\11.PokemonTrainer\obj\Debug\netcoreapp2.0\11.PokemonTrainer.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Exercise\11.PokemonTrainer\obj\Debug\netcoreapp2.0\11.PokemonTrainer.pdb

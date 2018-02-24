@@ -1,0 +1,11 @@
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Exercise\12.Google\bin\Debug\netcoreapp2.0\12.Google.deps.json
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Exercise\12.Google\bin\Debug\netcoreapp2.0\12.Google.runtimeconfig.json
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Exercise\12.Google\bin\Debug\netcoreapp2.0\12.Google.runtimeconfig.dev.json
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Exercise\12.Google\bin\Debug\netcoreapp2.0\12.Google.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Exercise\12.Google\bin\Debug\netcoreapp2.0\12.Google.pdb
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Exercise\12.Google\obj\Debug\netcoreapp2.0\12.Google.csprojResolveAssemblyReference.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Exercise\12.Google\obj\Debug\netcoreapp2.0\12.Google.csproj.CoreCompileInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Exercise\12.Google\obj\Debug\netcoreapp2.0\12.Google.AssemblyInfoInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Exercise\12.Google\obj\Debug\netcoreapp2.0\12.Google.AssemblyInfo.cs
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Exercise\12.Google\obj\Debug\netcoreapp2.0\12.Google.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Exercise\12.Google\obj\Debug\netcoreapp2.0\12.Google.pdb

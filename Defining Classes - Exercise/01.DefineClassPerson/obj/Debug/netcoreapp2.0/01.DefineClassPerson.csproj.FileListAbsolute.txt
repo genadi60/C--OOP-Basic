@@ -1,0 +1,11 @@
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Exercise\01.DefineClassPerson\bin\Debug\netcoreapp2.0\01.DefineClassPerson.deps.json
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Exercise\01.DefineClassPerson\bin\Debug\netcoreapp2.0\01.DefineClassPerson.runtimeconfig.json
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Exercise\01.DefineClassPerson\bin\Debug\netcoreapp2.0\01.DefineClassPerson.runtimeconfig.dev.json
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Exercise\01.DefineClassPerson\bin\Debug\netcoreapp2.0\01.DefineClassPerson.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Exercise\01.DefineClassPerson\bin\Debug\netcoreapp2.0\01.DefineClassPerson.pdb
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Exercise\01.DefineClassPerson\obj\Debug\netcoreapp2.0\01.DefineClassPerson.csprojResolveAssemblyReference.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Exercise\01.DefineClassPerson\obj\Debug\netcoreapp2.0\01.DefineClassPerson.csproj.CoreCompileInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Exercise\01.DefineClassPerson\obj\Debug\netcoreapp2.0\01.DefineClassPerson.AssemblyInfoInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Exercise\01.DefineClassPerson\obj\Debug\netcoreapp2.0\01.DefineClassPerson.AssemblyInfo.cs
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Exercise\01.DefineClassPerson\obj\Debug\netcoreapp2.0\01.DefineClassPerson.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Exercise\01.DefineClassPerson\obj\Debug\netcoreapp2.0\01.DefineClassPerson.pdb

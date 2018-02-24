@@ -1,0 +1,11 @@
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Exercise\10.CarSalesman\bin\Debug\netcoreapp2.0\10.CarSalesman.deps.json
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Exercise\10.CarSalesman\bin\Debug\netcoreapp2.0\10.CarSalesman.runtimeconfig.json
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Exercise\10.CarSalesman\bin\Debug\netcoreapp2.0\10.CarSalesman.runtimeconfig.dev.json
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Exercise\10.CarSalesman\bin\Debug\netcoreapp2.0\10.CarSalesman.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Exercise\10.CarSalesman\bin\Debug\netcoreapp2.0\10.CarSalesman.pdb
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Exercise\10.CarSalesman\obj\Debug\netcoreapp2.0\10.CarSalesman.csprojResolveAssemblyReference.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Exercise\10.CarSalesman\obj\Debug\netcoreapp2.0\10.CarSalesman.csproj.CoreCompileInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Exercise\10.CarSalesman\obj\Debug\netcoreapp2.0\10.CarSalesman.AssemblyInfoInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Exercise\10.CarSalesman\obj\Debug\netcoreapp2.0\10.CarSalesman.AssemblyInfo.cs
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Exercise\10.CarSalesman\obj\Debug\netcoreapp2.0\10.CarSalesman.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Exercise\10.CarSalesman\obj\Debug\netcoreapp2.0\10.CarSalesman.pdb

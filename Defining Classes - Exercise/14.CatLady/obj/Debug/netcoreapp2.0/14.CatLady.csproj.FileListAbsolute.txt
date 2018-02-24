@@ -1,0 +1,11 @@
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Exercise\14.CatLady\bin\Debug\netcoreapp2.0\14.CatLady.deps.json
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Exercise\14.CatLady\bin\Debug\netcoreapp2.0\14.CatLady.runtimeconfig.json
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Exercise\14.CatLady\bin\Debug\netcoreapp2.0\14.CatLady.runtimeconfig.dev.json
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Exercise\14.CatLady\bin\Debug\netcoreapp2.0\14.CatLady.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Exercise\14.CatLady\bin\Debug\netcoreapp2.0\14.CatLady.pdb
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Exercise\14.CatLady\obj\Debug\netcoreapp2.0\14.CatLady.csprojResolveAssemblyReference.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Exercise\14.CatLady\obj\Debug\netcoreapp2.0\14.CatLady.csproj.CoreCompileInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Exercise\14.CatLady\obj\Debug\netcoreapp2.0\14.CatLady.AssemblyInfoInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Exercise\14.CatLady\obj\Debug\netcoreapp2.0\14.CatLady.AssemblyInfo.cs
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Exercise\14.CatLady\obj\Debug\netcoreapp2.0\14.CatLady.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Defining Classes - Exercise\14.CatLady\obj\Debug\netcoreapp2.0\14.CatLady.pdb
