@@ -1,0 +1,33 @@
+C:\Users\Генади\Desktop\Interfaces and Abstraction - Exercise\10.ExplicitInterfaces\bin\Debug\netcoreapp2.0\10.ExplicitInterfaces.deps.json
+C:\Users\Генади\Desktop\Interfaces and Abstraction - Exercise\10.ExplicitInterfaces\bin\Debug\netcoreapp2.0\10.ExplicitInterfaces.runtimeconfig.json
+C:\Users\Генади\Desktop\Interfaces and Abstraction - Exercise\10.ExplicitInterfaces\bin\Debug\netcoreapp2.0\10.ExplicitInterfaces.runtimeconfig.dev.json
+C:\Users\Генади\Desktop\Interfaces and Abstraction - Exercise\10.ExplicitInterfaces\bin\Debug\netcoreapp2.0\10.ExplicitInterfaces.dll
+C:\Users\Генади\Desktop\Interfaces and Abstraction - Exercise\10.ExplicitInterfaces\bin\Debug\netcoreapp2.0\10.ExplicitInterfaces.pdb
+C:\Users\Генади\Desktop\Interfaces and Abstraction - Exercise\10.ExplicitInterfaces\obj\Debug\netcoreapp2.0\10.ExplicitInterfaces.csprojResolveAssemblyReference.cache
+C:\Users\Генади\Desktop\Interfaces and Abstraction - Exercise\10.ExplicitInterfaces\obj\Debug\netcoreapp2.0\10.ExplicitInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Генади\Desktop\Interfaces and Abstraction - Exercise\10.ExplicitInterfaces\obj\Debug\netcoreapp2.0\10.ExplicitInterfaces.AssemblyInfoInputs.cache
+C:\Users\Генади\Desktop\Interfaces and Abstraction - Exercise\10.ExplicitInterfaces\obj\Debug\netcoreapp2.0\10.ExplicitInterfaces.AssemblyInfo.cs
+C:\Users\Генади\Desktop\Interfaces and Abstraction - Exercise\10.ExplicitInterfaces\obj\Debug\netcoreapp2.0\10.ExplicitInterfaces.dll
+C:\Users\Генади\Desktop\Interfaces and Abstraction - Exercise\10.ExplicitInterfaces\obj\Debug\netcoreapp2.0\10.ExplicitInterfaces.pdb
+C:\Users\Genadi\OneDrive\Education\Interfaces and Abstraction - Exercise\10.ExplicitInterfaces\bin\Debug\netcoreapp2.0\10.ExplicitInterfaces.deps.json
+C:\Users\Genadi\OneDrive\Education\Interfaces and Abstraction - Exercise\10.ExplicitInterfaces\bin\Debug\netcoreapp2.0\10.ExplicitInterfaces.runtimeconfig.json
+C:\Users\Genadi\OneDrive\Education\Interfaces and Abstraction - Exercise\10.ExplicitInterfaces\bin\Debug\netcoreapp2.0\10.ExplicitInterfaces.runtimeconfig.dev.json
+C:\Users\Genadi\OneDrive\Education\Interfaces and Abstraction - Exercise\10.ExplicitInterfaces\bin\Debug\netcoreapp2.0\10.ExplicitInterfaces.dll
+C:\Users\Genadi\OneDrive\Education\Interfaces and Abstraction - Exercise\10.ExplicitInterfaces\bin\Debug\netcoreapp2.0\10.ExplicitInterfaces.pdb
+C:\Users\Genadi\OneDrive\Education\Interfaces and Abstraction - Exercise\10.ExplicitInterfaces\obj\Debug\netcoreapp2.0\10.ExplicitInterfaces.csprojResolveAssemblyReference.cache
+C:\Users\Genadi\OneDrive\Education\Interfaces and Abstraction - Exercise\10.ExplicitInterfaces\obj\Debug\netcoreapp2.0\10.ExplicitInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Genadi\OneDrive\Education\Interfaces and Abstraction - Exercise\10.ExplicitInterfaces\obj\Debug\netcoreapp2.0\10.ExplicitInterfaces.AssemblyInfoInputs.cache
+C:\Users\Genadi\OneDrive\Education\Interfaces and Abstraction - Exercise\10.ExplicitInterfaces\obj\Debug\netcoreapp2.0\10.ExplicitInterfaces.AssemblyInfo.cs
+C:\Users\Genadi\OneDrive\Education\Interfaces and Abstraction - Exercise\10.ExplicitInterfaces\obj\Debug\netcoreapp2.0\10.ExplicitInterfaces.dll
+C:\Users\Genadi\OneDrive\Education\Interfaces and Abstraction - Exercise\10.ExplicitInterfaces\obj\Debug\netcoreapp2.0\10.ExplicitInterfaces.pdb
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Interfaces and Abstraction - Exercise\10.ExplicitInterfaces\bin\Debug\netcoreapp2.0\10.ExplicitInterfaces.deps.json
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Interfaces and Abstraction - Exercise\10.ExplicitInterfaces\bin\Debug\netcoreapp2.0\10.ExplicitInterfaces.runtimeconfig.json
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Interfaces and Abstraction - Exercise\10.ExplicitInterfaces\bin\Debug\netcoreapp2.0\10.ExplicitInterfaces.runtimeconfig.dev.json
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Interfaces and Abstraction - Exercise\10.ExplicitInterfaces\bin\Debug\netcoreapp2.0\10.ExplicitInterfaces.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Interfaces and Abstraction - Exercise\10.ExplicitInterfaces\bin\Debug\netcoreapp2.0\10.ExplicitInterfaces.pdb
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Interfaces and Abstraction - Exercise\10.ExplicitInterfaces\obj\Debug\netcoreapp2.0\10.ExplicitInterfaces.csprojResolveAssemblyReference.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Interfaces and Abstraction - Exercise\10.ExplicitInterfaces\obj\Debug\netcoreapp2.0\10.ExplicitInterfaces.csproj.CoreCompileInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Interfaces and Abstraction - Exercise\10.ExplicitInterfaces\obj\Debug\netcoreapp2.0\10.ExplicitInterfaces.AssemblyInfoInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Interfaces and Abstraction - Exercise\10.ExplicitInterfaces\obj\Debug\netcoreapp2.0\10.ExplicitInterfaces.AssemblyInfo.cs
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Interfaces and Abstraction - Exercise\10.ExplicitInterfaces\obj\Debug\netcoreapp2.0\10.ExplicitInterfaces.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Interfaces and Abstraction - Exercise\10.ExplicitInterfaces\obj\Debug\netcoreapp2.0\10.ExplicitInterfaces.pdb

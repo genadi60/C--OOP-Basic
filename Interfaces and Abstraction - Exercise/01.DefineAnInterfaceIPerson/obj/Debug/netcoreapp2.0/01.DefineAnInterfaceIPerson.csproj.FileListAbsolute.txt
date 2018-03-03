@@ -1,0 +1,11 @@
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Interfaces and Abstraction - Exercise\01.DefineAnInterfaceIPerson\bin\Debug\netcoreapp2.0\01.DefineAnInterfaceIPerson.deps.json
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Interfaces and Abstraction - Exercise\01.DefineAnInterfaceIPerson\bin\Debug\netcoreapp2.0\01.DefineAnInterfaceIPerson.runtimeconfig.json
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Interfaces and Abstraction - Exercise\01.DefineAnInterfaceIPerson\bin\Debug\netcoreapp2.0\01.DefineAnInterfaceIPerson.runtimeconfig.dev.json
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Interfaces and Abstraction - Exercise\01.DefineAnInterfaceIPerson\bin\Debug\netcoreapp2.0\01.DefineAnInterfaceIPerson.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Interfaces and Abstraction - Exercise\01.DefineAnInterfaceIPerson\bin\Debug\netcoreapp2.0\01.DefineAnInterfaceIPerson.pdb
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Interfaces and Abstraction - Exercise\01.DefineAnInterfaceIPerson\obj\Debug\netcoreapp2.0\01.DefineAnInterfaceIPerson.csprojResolveAssemblyReference.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Interfaces and Abstraction - Exercise\01.DefineAnInterfaceIPerson\obj\Debug\netcoreapp2.0\01.DefineAnInterfaceIPerson.csproj.CoreCompileInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Interfaces and Abstraction - Exercise\01.DefineAnInterfaceIPerson\obj\Debug\netcoreapp2.0\01.DefineAnInterfaceIPerson.AssemblyInfoInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Interfaces and Abstraction - Exercise\01.DefineAnInterfaceIPerson\obj\Debug\netcoreapp2.0\01.DefineAnInterfaceIPerson.AssemblyInfo.cs
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Interfaces and Abstraction - Exercise\01.DefineAnInterfaceIPerson\obj\Debug\netcoreapp2.0\01.DefineAnInterfaceIPerson.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Interfaces and Abstraction - Exercise\01.DefineAnInterfaceIPerson\obj\Debug\netcoreapp2.0\01.DefineAnInterfaceIPerson.pdb

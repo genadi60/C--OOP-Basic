@@ -1,0 +1,33 @@
+C:\Users\Генади\Desktop\Interfaces and Abstraction - Exercise\09.CollectionHierarchy\bin\Debug\netcoreapp2.0\09.CollectionHierarchy.deps.json
+C:\Users\Генади\Desktop\Interfaces and Abstraction - Exercise\09.CollectionHierarchy\bin\Debug\netcoreapp2.0\09.CollectionHierarchy.runtimeconfig.json
+C:\Users\Генади\Desktop\Interfaces and Abstraction - Exercise\09.CollectionHierarchy\bin\Debug\netcoreapp2.0\09.CollectionHierarchy.runtimeconfig.dev.json
+C:\Users\Генади\Desktop\Interfaces and Abstraction - Exercise\09.CollectionHierarchy\bin\Debug\netcoreapp2.0\09.CollectionHierarchy.dll
+C:\Users\Генади\Desktop\Interfaces and Abstraction - Exercise\09.CollectionHierarchy\bin\Debug\netcoreapp2.0\09.CollectionHierarchy.pdb
+C:\Users\Генади\Desktop\Interfaces and Abstraction - Exercise\09.CollectionHierarchy\obj\Debug\netcoreapp2.0\09.CollectionHierarchy.csprojResolveAssemblyReference.cache
+C:\Users\Генади\Desktop\Interfaces and Abstraction - Exercise\09.CollectionHierarchy\obj\Debug\netcoreapp2.0\09.CollectionHierarchy.csproj.CoreCompileInputs.cache
+C:\Users\Генади\Desktop\Interfaces and Abstraction - Exercise\09.CollectionHierarchy\obj\Debug\netcoreapp2.0\09.CollectionHierarchy.AssemblyInfoInputs.cache
+C:\Users\Генади\Desktop\Interfaces and Abstraction - Exercise\09.CollectionHierarchy\obj\Debug\netcoreapp2.0\09.CollectionHierarchy.AssemblyInfo.cs
+C:\Users\Генади\Desktop\Interfaces and Abstraction - Exercise\09.CollectionHierarchy\obj\Debug\netcoreapp2.0\09.CollectionHierarchy.dll
+C:\Users\Генади\Desktop\Interfaces and Abstraction - Exercise\09.CollectionHierarchy\obj\Debug\netcoreapp2.0\09.CollectionHierarchy.pdb
+C:\Users\Genadi\OneDrive\Education\Interfaces and Abstraction - Exercise\09.CollectionHierarchy\bin\Debug\netcoreapp2.0\09.CollectionHierarchy.deps.json
+C:\Users\Genadi\OneDrive\Education\Interfaces and Abstraction - Exercise\09.CollectionHierarchy\bin\Debug\netcoreapp2.0\09.CollectionHierarchy.runtimeconfig.json
+C:\Users\Genadi\OneDrive\Education\Interfaces and Abstraction - Exercise\09.CollectionHierarchy\bin\Debug\netcoreapp2.0\09.CollectionHierarchy.runtimeconfig.dev.json
+C:\Users\Genadi\OneDrive\Education\Interfaces and Abstraction - Exercise\09.CollectionHierarchy\bin\Debug\netcoreapp2.0\09.CollectionHierarchy.dll
+C:\Users\Genadi\OneDrive\Education\Interfaces and Abstraction - Exercise\09.CollectionHierarchy\bin\Debug\netcoreapp2.0\09.CollectionHierarchy.pdb
+C:\Users\Genadi\OneDrive\Education\Interfaces and Abstraction - Exercise\09.CollectionHierarchy\obj\Debug\netcoreapp2.0\09.CollectionHierarchy.csprojResolveAssemblyReference.cache
+C:\Users\Genadi\OneDrive\Education\Interfaces and Abstraction - Exercise\09.CollectionHierarchy\obj\Debug\netcoreapp2.0\09.CollectionHierarchy.csproj.CoreCompileInputs.cache
+C:\Users\Genadi\OneDrive\Education\Interfaces and Abstraction - Exercise\09.CollectionHierarchy\obj\Debug\netcoreapp2.0\09.CollectionHierarchy.AssemblyInfoInputs.cache
+C:\Users\Genadi\OneDrive\Education\Interfaces and Abstraction - Exercise\09.CollectionHierarchy\obj\Debug\netcoreapp2.0\09.CollectionHierarchy.AssemblyInfo.cs
+C:\Users\Genadi\OneDrive\Education\Interfaces and Abstraction - Exercise\09.CollectionHierarchy\obj\Debug\netcoreapp2.0\09.CollectionHierarchy.dll
+C:\Users\Genadi\OneDrive\Education\Interfaces and Abstraction - Exercise\09.CollectionHierarchy\obj\Debug\netcoreapp2.0\09.CollectionHierarchy.pdb
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Interfaces and Abstraction - Exercise\09.CollectionHierarchy\bin\Debug\netcoreapp2.0\09.CollectionHierarchy.deps.json
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Interfaces and Abstraction - Exercise\09.CollectionHierarchy\bin\Debug\netcoreapp2.0\09.CollectionHierarchy.runtimeconfig.json
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Interfaces and Abstraction - Exercise\09.CollectionHierarchy\bin\Debug\netcoreapp2.0\09.CollectionHierarchy.runtimeconfig.dev.json
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Interfaces and Abstraction - Exercise\09.CollectionHierarchy\bin\Debug\netcoreapp2.0\09.CollectionHierarchy.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Interfaces and Abstraction - Exercise\09.CollectionHierarchy\bin\Debug\netcoreapp2.0\09.CollectionHierarchy.pdb
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Interfaces and Abstraction - Exercise\09.CollectionHierarchy\obj\Debug\netcoreapp2.0\09.CollectionHierarchy.csprojResolveAssemblyReference.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Interfaces and Abstraction - Exercise\09.CollectionHierarchy\obj\Debug\netcoreapp2.0\09.CollectionHierarchy.csproj.CoreCompileInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Interfaces and Abstraction - Exercise\09.CollectionHierarchy\obj\Debug\netcoreapp2.0\09.CollectionHierarchy.AssemblyInfoInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Interfaces and Abstraction - Exercise\09.CollectionHierarchy\obj\Debug\netcoreapp2.0\09.CollectionHierarchy.AssemblyInfo.cs
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Interfaces and Abstraction - Exercise\09.CollectionHierarchy\obj\Debug\netcoreapp2.0\09.CollectionHierarchy.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Interfaces and Abstraction - Exercise\09.CollectionHierarchy\obj\Debug\netcoreapp2.0\09.CollectionHierarchy.pdb

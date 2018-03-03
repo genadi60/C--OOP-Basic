@@ -1,0 +1,22 @@
+C:\Users\Генади\Desktop\Polymorphism - Exercise\02.VehiclesExtension\bin\Debug\netcoreapp2.0\02.VehiclesExtension.deps.json
+C:\Users\Генади\Desktop\Polymorphism - Exercise\02.VehiclesExtension\bin\Debug\netcoreapp2.0\02.VehiclesExtension.runtimeconfig.json
+C:\Users\Генади\Desktop\Polymorphism - Exercise\02.VehiclesExtension\bin\Debug\netcoreapp2.0\02.VehiclesExtension.runtimeconfig.dev.json
+C:\Users\Генади\Desktop\Polymorphism - Exercise\02.VehiclesExtension\bin\Debug\netcoreapp2.0\02.VehiclesExtension.dll
+C:\Users\Генади\Desktop\Polymorphism - Exercise\02.VehiclesExtension\bin\Debug\netcoreapp2.0\02.VehiclesExtension.pdb
+C:\Users\Генади\Desktop\Polymorphism - Exercise\02.VehiclesExtension\obj\Debug\netcoreapp2.0\02.VehiclesExtension.csprojResolveAssemblyReference.cache
+C:\Users\Генади\Desktop\Polymorphism - Exercise\02.VehiclesExtension\obj\Debug\netcoreapp2.0\02.VehiclesExtension.csproj.CoreCompileInputs.cache
+C:\Users\Генади\Desktop\Polymorphism - Exercise\02.VehiclesExtension\obj\Debug\netcoreapp2.0\02.VehiclesExtension.AssemblyInfoInputs.cache
+C:\Users\Генади\Desktop\Polymorphism - Exercise\02.VehiclesExtension\obj\Debug\netcoreapp2.0\02.VehiclesExtension.AssemblyInfo.cs
+C:\Users\Генади\Desktop\Polymorphism - Exercise\02.VehiclesExtension\obj\Debug\netcoreapp2.0\02.VehiclesExtension.dll
+C:\Users\Генади\Desktop\Polymorphism - Exercise\02.VehiclesExtension\obj\Debug\netcoreapp2.0\02.VehiclesExtension.pdb
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Polymorphism - Exercise\02.VehiclesExtension\bin\Debug\netcoreapp2.0\02.VehiclesExtension.deps.json
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Polymorphism - Exercise\02.VehiclesExtension\bin\Debug\netcoreapp2.0\02.VehiclesExtension.runtimeconfig.json
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Polymorphism - Exercise\02.VehiclesExtension\bin\Debug\netcoreapp2.0\02.VehiclesExtension.runtimeconfig.dev.json
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Polymorphism - Exercise\02.VehiclesExtension\bin\Debug\netcoreapp2.0\02.VehiclesExtension.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Polymorphism - Exercise\02.VehiclesExtension\bin\Debug\netcoreapp2.0\02.VehiclesExtension.pdb
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Polymorphism - Exercise\02.VehiclesExtension\obj\Debug\netcoreapp2.0\02.VehiclesExtension.csprojResolveAssemblyReference.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Polymorphism - Exercise\02.VehiclesExtension\obj\Debug\netcoreapp2.0\02.VehiclesExtension.csproj.CoreCompileInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Polymorphism - Exercise\02.VehiclesExtension\obj\Debug\netcoreapp2.0\02.VehiclesExtension.AssemblyInfoInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Polymorphism - Exercise\02.VehiclesExtension\obj\Debug\netcoreapp2.0\02.VehiclesExtension.AssemblyInfo.cs
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Polymorphism - Exercise\02.VehiclesExtension\obj\Debug\netcoreapp2.0\02.VehiclesExtension.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Polymorphism - Exercise\02.VehiclesExtension\obj\Debug\netcoreapp2.0\02.VehiclesExtension.pdb
