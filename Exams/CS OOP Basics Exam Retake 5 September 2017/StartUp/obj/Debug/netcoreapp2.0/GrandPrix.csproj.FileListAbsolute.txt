@@ -1,0 +1,11 @@
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Exams\CS OOP Basics Exam Retake 5 September 2017\StartUp\bin\Debug\netcoreapp2.0\GrandPrix.deps.json
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Exams\CS OOP Basics Exam Retake 5 September 2017\StartUp\bin\Debug\netcoreapp2.0\GrandPrix.runtimeconfig.json
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Exams\CS OOP Basics Exam Retake 5 September 2017\StartUp\bin\Debug\netcoreapp2.0\GrandPrix.runtimeconfig.dev.json
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Exams\CS OOP Basics Exam Retake 5 September 2017\StartUp\bin\Debug\netcoreapp2.0\GrandPrix.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Exams\CS OOP Basics Exam Retake 5 September 2017\StartUp\bin\Debug\netcoreapp2.0\GrandPrix.pdb
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Exams\CS OOP Basics Exam Retake 5 September 2017\StartUp\obj\Debug\netcoreapp2.0\GrandPrix.csprojResolveAssemblyReference.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Exams\CS OOP Basics Exam Retake 5 September 2017\StartUp\obj\Debug\netcoreapp2.0\GrandPrix.csproj.CoreCompileInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Exams\CS OOP Basics Exam Retake 5 September 2017\StartUp\obj\Debug\netcoreapp2.0\GrandPrix.AssemblyInfoInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Exams\CS OOP Basics Exam Retake 5 September 2017\StartUp\obj\Debug\netcoreapp2.0\GrandPrix.AssemblyInfo.cs
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Exams\CS OOP Basics Exam Retake 5 September 2017\StartUp\obj\Debug\netcoreapp2.0\GrandPrix.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C#-OOP-Basic\Exams\CS OOP Basics Exam Retake 5 September 2017\StartUp\obj\Debug\netcoreapp2.0\GrandPrix.pdb

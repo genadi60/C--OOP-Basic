@@ -1,0 +1,11 @@
+I:\УНИ\SoftUni\Projects\VS Projects\C#-Advanced\BashSoft\BashSoft\bin\Debug\netcoreapp1.1\BashSoft.deps.json
+I:\УНИ\SoftUni\Projects\VS Projects\C#-Advanced\BashSoft\BashSoft\bin\Debug\netcoreapp1.1\BashSoft.runtimeconfig.json
+I:\УНИ\SoftUni\Projects\VS Projects\C#-Advanced\BashSoft\BashSoft\bin\Debug\netcoreapp1.1\BashSoft.runtimeconfig.dev.json
+I:\УНИ\SoftUni\Projects\VS Projects\C#-Advanced\BashSoft\BashSoft\bin\Debug\netcoreapp1.1\BashSoft.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C#-Advanced\BashSoft\BashSoft\bin\Debug\netcoreapp1.1\BashSoft.pdb
+I:\УНИ\SoftUni\Projects\VS Projects\C#-Advanced\BashSoft\BashSoft\obj\Debug\netcoreapp1.1\BashSoft.csproj.CoreCompileInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C#-Advanced\BashSoft\BashSoft\obj\Debug\netcoreapp1.1\BashSoft.AssemblyInfoInputs.cache
+I:\УНИ\SoftUni\Projects\VS Projects\C#-Advanced\BashSoft\BashSoft\obj\Debug\netcoreapp1.1\BashSoft.AssemblyInfo.cs
+I:\УНИ\SoftUni\Projects\VS Projects\C#-Advanced\BashSoft\BashSoft\obj\Debug\netcoreapp1.1\BashSoft.dll
+I:\УНИ\SoftUni\Projects\VS Projects\C#-Advanced\BashSoft\BashSoft\obj\Debug\netcoreapp1.1\BashSoft.pdb
+I:\УНИ\SoftUni\Projects\VS Projects\C#-Advanced\BashSoft\BashSoft\obj\Debug\netcoreapp1.1\BashSoft.csprojResolveAssemblyReference.cache
